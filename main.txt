@@ -1,18 +1,18 @@
 ! Title: mylesbartlett72's main list
 ! Force canonical
 ! Redirect: https://raw.githubusercontent.com/mylesbartlett72/abp-compatible-filters/main/main.txt
-! Expires: 1 hour
-! Version: 1
+! Expires: 5 days
+! Version: 2
 ! Homepage: https://github.com/mylesbartlett72/abp-compatible-filters/
 
 ! Apparently Bing still exists, and I have no idea why you are using it anyway.
-||bing.com
+||bing.com$document
 ! Okay, rant time.
 ! DISCLAIMER: This is an honest review from a former pupil of Barrow Hill Junior School.
 ! TL:DR - Do not send your child to this school (unless the headmaster is no longer David Tomlinson.)
 ! Where do I start?  Maybe the focus on the SAT tests - along with completely false claims that they are actually important for anything other than how the school looks.  Even the computing lessons are leveraged to prepare for these tests (and the computers run Microsoft's proprietary malware, along with spyware.  Also, the censorware is completely broken, and the spyware can do that task (although the teachers do not realise that a lot of websites depend on other domains, and thus break them) as well.)  The lesson quality is a down arrow somewhere below your feet, or in the dirtiest public toilet near you.  Forget about learning languages, you do that for one year, then have a break because the (usually Australian for some reason, although this isn't an issue) teacher is leaving for some reason, then a year not learning any language, then a year learning a completely different language.  Finish with learning that language, but restart from scratch.  Oh, also the building has an excess of staircases for some reason (two run next to each other but one does not serve all floors) and is inaccessible.  Pool?  Only for the young kids, otherwise you are too tall.  Only showers in the boys room, so have fun with that.  
 ! Seriously, do not ever remove the line below or circumvent it in any way.  Please.
-||bhjs.co.uk
+||bhjs.co.uk$document
 
 ! Bukkit advert for creating a minecraft server with a hosting company - filter probably broken
 ! 13/04/2020 https://getbukkit.org
