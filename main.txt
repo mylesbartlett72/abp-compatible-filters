@@ -2,7 +2,7 @@
 ! Force canonical
 ! Redirect: https://raw.githubusercontent.com/mylesbartlett72/abp-compatible-filters/main/main.txt
 ! Expires: 5 days
-! Version: 3
+! Version: 4
 ! Homepage: https://github.com/mylesbartlett72/abp-compatible-filters/
 
 ! Apparently Bing still exists, and I have no idea why you are using it anyway.
@@ -63,3 +63,17 @@ event.webinarjam.com##.wj_justify-content-center.wj_align-items-center.wj_d-flex
 event.webinarjam.com##.attendee_slide_up_block_header.flex-shrink-0.align-items-end.justify-content-between.d-flex.card-header-bg.card-header-pb-0
 
 ||taboola.com^
+
+! Merged ABP clickbait blocklist
+||2leep.com^
+||adblade.com^
+||adsnative.com^
+||cdn.nmcdn.us^
+||content-ad.net^
+||content.ad^
+||mgid.com^
+||newsmaxfeednetwork.com^
+||outbrain.com^
+||revcontent.com^
+! ||taboola.com ! duplicate
+||zergnet.com^
