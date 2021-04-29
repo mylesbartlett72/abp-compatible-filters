@@ -1,0 +1,61 @@
+! Title: *INVALID VERSION - FORCE UPDATE*
+! Expires: 1 hour
+! Version: 0
+
+! Apparently Bing still exists, and I have no idea why you are using it anyway.
+||bing.com
+! Okay, rant time.
+! DISCLAIMER: This is an honest review from a former pupil of Barrow Hill Junior School.
+! TL:DR - Do not send your child to this school (unless the headmaster is no longer David Tomlinson.)
+! Where do I start?  Maybe the focus on the SAT tests - along with completely false claims that they are actually important for anything other than how the school looks.  Even the computing lessons are leveraged to prepare for these tests (and the computers run Microsoft's proprietary malware, along with spyware.  Also, the censorware is completely broken, and the spyware can do that task (although the teachers do not realise that a lot of websites depend on other domains, and thus break them) as well.)  The lesson quality is a down arrow somewhere below your feet, or in the dirtiest public toilet near you.  Forget about learning languages, you do that for one year, then have a break because the (usually Australian for some reason, although this isn't an issue) teacher is leaving for some reason, then a year not learning any language, then a year learning a completely different language.  Finish with learning that language, but restart from scratch.  Oh, also the building has an excess of staircases for some reason (two run next to each other but one does not serve all floors) and is inaccessible.  Pool?  Only for the young kids, otherwise you are too tall.  Only showers in the boys room, so have fun with that.  
+! Seriously, do not ever remove the line below or circumvent it in any way.  Please.
+||bhjs.co.uk
+
+! Bukkit advert for creating a minecraft server with a hosting company - filter probably broken
+! 13/04/2020 https://getbukkit.org
+getbukkit.org##.btn-create.btn
+! 25/04/2020 https://getbukkit.org
+||getbukkit.org/assets/img/Ramshardv2.gif$image
+||getbukkit.org/assets/img/Ramshardv2.gif$image
+
+! 21/04/2020 https://www.pemberley.com
+! Annoying big image.  Like - really big and not at all needed for readability.  Get out please.
+||www.pemberley.com/janeinfo/jasilhpp.gif$image
+
+! 24/04/2020 https://www.youtube.com
+||i.ytimg.com/vi/W-WLnxbvMyw/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBwGMGkdi0QZcarf6u_dzw7Ci5Hhw$image
+
+! 25/04/2020 https://krunker.io
+krunker.io###supportKrunker
+krunker.io###aMerger
+
+! no thanks to that ad banner, also please learn html and css (and javascript and php/cgi/node.js(javascript for servers)) rather than using wix.  or use wordpress if you dont fancy it.  we are tired of the adverts.  and the laziness.
+###WIX_ADS
+
+! 10/05/2020 https://www.accuweather.com
+www.accuweather.com##.jw-reset.jw-video
+www.accuweather.com##.jw-reset.jw-media
+www.accuweather.com##.jw-reset.jw-controls
+www.accuweather.com##.title-share
+www.accuweather.com##.video-player
+
+! 11/05/2020 https://kneehighcookbook.co.uk
+kneehighcookbook.co.uk##.register-overlay
+
+! 11/05/2020 https://www.thesaurus.com
+www.thesaurus.com##.e1c17zzu1.css-5esj6s-ShowOn
+
+! 21/05/2020 https://www.onlinecharttool.com
+www.onlinecharttool.com##body > .banner
+www.onlinecharttool.com##.footer > .banner
+
+! 05/06/2020 https://quizlet.com
+||assets.quizlet.com/a/i/upgrade/skyscraper_variant.*.png$image
+
+! 22/06/2020 https://www.playbuzz.com
+www.playbuzz.com##.p-hover.avp-p-gui
+
+! 23/06/2020 https://event.webinarjam.com
+event.webinarjam.com##.wj_justify-content-center.wj_align-items-center.wj_d-flex.wj_content
+event.webinarjam.com##.attendee_slide_up_block_header.flex-shrink-0.align-items-end.justify-content-between.d-flex.card-header-bg.card-header-pb-0
+
