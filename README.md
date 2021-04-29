@@ -1,2 +1,4 @@
 # abp-compatible-filters
-<a href="abp:subscribe?location=https://raw.githubusercontent.com/mylesbartlett72/abp-compatible-filters/main/main.txt">Add main filter list</a>
+<a href="https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Fmylesbartlett72%2Fabp-compatible-filters%2Fmain%2Fmain.txt&amp;title=mylesbartlett72's%20main%20list">Subscribe to this list</a>
+
+
