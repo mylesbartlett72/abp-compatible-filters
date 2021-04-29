@@ -62,3 +62,4 @@ www.playbuzz.com##.p-hover.avp-p-gui
 event.webinarjam.com##.wj_justify-content-center.wj_align-items-center.wj_d-flex.wj_content
 event.webinarjam.com##.attendee_slide_up_block_header.flex-shrink-0.align-items-end.justify-content-between.d-flex.card-header-bg.card-header-pb-0
 
+||taboola.com^
