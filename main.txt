@@ -1,6 +1,9 @@
-! Title: *INVALID VERSION - FORCE UPDATE*
+! Title: mylesbartlett72's main list
+! Force canonical
+! Redirect: https://raw.githubusercontent.com/mylesbartlett72/abp-compatible-filters/main/main.txt
 ! Expires: 1 hour
-! Version: 0
+! Version: 1
+! Homepage: https://github.com/mylesbartlett72/abp-compatible-filters/
 
 ! Apparently Bing still exists, and I have no idea why you are using it anyway.
 ||bing.com
