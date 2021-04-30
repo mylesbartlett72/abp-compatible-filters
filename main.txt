@@ -54,7 +54,7 @@ www.onlinecharttool.com##body > .banner
 www.onlinecharttool.com##.footer > .banner
 
 ! 05/06/2020 https://quizlet.com
-||assets.quizlet.com/a/i/upgrade/skyscraper_variant.*.png$image
+||assets.quizlet.com/a/i/upgrade/skyscraper_variant*.png$image
 
 ! 22/06/2020 https://www.playbuzz.com
 www.playbuzz.com##.p-hover.avp-p-gui
