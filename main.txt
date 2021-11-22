@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: mylesbartlett72's main list
 ! Force canonical
-! Redirect: https://raw.githubusercontent.com/mylesbartlett72/abp-compatible-filters/main/main.txt
+! Redirect: https://cdn.jsdelivr.net/gh/mylesbartlett72/abp-compatible-filters/main.txt
 ! Expires: 5 days
-! Version: 6
+! Version: 7
 ! Homepage: https://github.com/mylesbartlett72/abp-compatible-filters/
 
 ! Apparently Bing still exists, and I have no idea why you are using it anyway.
