@@ -3,7 +3,7 @@
 ! Force canonical
 ! Redirect: https://cdn.jsdelivr.net/gh/mylesbartlett72/abp-compatible-filters/main.txt
 ! Expires: 5 days
-! Version: 7
+! Version: 8
 ! Homepage: https://github.com/mylesbartlett72/abp-compatible-filters/
 
 ! Apparently Bing still exists, and I have no idea why you are using it anyway.
@@ -78,3 +78,10 @@ event.webinarjam.com##.attendee_slide_up_block_header.flex-shrink-0.align-items-
 ||revcontent.com^
 ! ||taboola.com ! duplicate
 ||zergnet.com^
+
+
+! 2021-11-22 https://quizlet.com
+quizlet.com##.SetPageTerms-embeddedDesktopAdWrapper
+quizlet.com##.MatchModeStudyBreak-adContainer
+quizlet.com##.MatchModeStudyBreak-adWrapper
+
