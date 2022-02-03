@@ -3,7 +3,7 @@
 ! Force canonical
 ! Redirect: https://cdn.jsdelivr.net/gh/mylesbartlett72/abp-compatible-filters/main.txt
 ! Expires: 5 days
-! Version: 8
+! Version: 9
 ! Homepage: https://github.com/mylesbartlett72/abp-compatible-filters/
 
 ! Apparently Bing still exists, and I have no idea why you are using it anyway.
@@ -85,3 +85,6 @@ quizlet.com##.SetPageTerms-embeddedDesktopAdWrapper
 quizlet.com##.MatchModeStudyBreak-adContainer
 quizlet.com##.MatchModeStudyBreak-adWrapper
 
+! 2022-02-03 https://www.bbc.co.uk
+! Annoying footer, getting in the way of my revision.
+www.bbc.co.uk###navp-orb-footer-promo
