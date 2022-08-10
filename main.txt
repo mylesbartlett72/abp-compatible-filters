@@ -88,3 +88,6 @@ quizlet.com##.MatchModeStudyBreak-adWrapper
 ! 2022-02-03 https://www.bbc.co.uk
 ! Annoying footer, getting in the way of my revision.
 www.bbc.co.uk###navp-orb-footer-promo
+
+! tracking
+||gethatch.com
