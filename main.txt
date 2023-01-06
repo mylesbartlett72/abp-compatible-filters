@@ -93,4 +93,4 @@ www.bbc.co.uk###navp-orb-footer-promo
 ||gethatch.com
 
 ! SEO spam
-dtjdesigns.blogspot.com
+dtjdesigns.blogspot.com$document
