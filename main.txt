@@ -3,7 +3,7 @@
 ! Force canonical
 ! Redirect: https://cdn.jsdelivr.net/gh/mylesbartlett72/abp-compatible-filters/main.txt
 ! Expires: 5 days
-! Version: 10
+! Version: 11
 ! Homepage: https://github.com/mylesbartlett72/abp-compatible-filters/
 
 ! Apparently Bing still exists, and I have no idea why you are using it anyway.
@@ -93,4 +93,7 @@ www.bbc.co.uk###navp-orb-footer-promo
 ||gethatch.com
 
 ! SEO spam
-dtjdesigns.blogspot.com$document
+||dtjdesigns.blogspot.com$document
+
+! known to serve malware
+||a0551002.xsph.ru
