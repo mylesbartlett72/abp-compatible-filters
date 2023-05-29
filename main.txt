@@ -97,3 +97,7 @@ www.bbc.co.uk###navp-orb-footer-promo
 
 ! known to serve malware
 ||a0551002.xsph.ru
+
+! transphobia
+||darlow.co.uk
+||fedi.darlow.co.uk
